@@ -42,14 +42,14 @@
   <text x="220" y="160" class="word">ontahí</text>
   <text x="226" y="194" font-family="Inter,system-ui,sans-serif" font-size="13" letter-spacing="6" fill="#D94C43">EXECUTABLE ONTOLOGY</text>
 
-  <rect x="64" y="260" width="376" height="132" rx="14" fill="#FFFCF6" stroke="#D9D1C0"/>
+  <rect x="64" y="260" width="376" height="146" rx="14" fill="#FFFCF6" stroke="#D9D1C0"/>
   <g transform="translate(96 284) scale(.44)">
     <use href="#ceibo"/>
   </g>
   <text x="170" y="338" class="smallword">ontahí</text>
-  <text x="96" y="370" class="caption">Horizontal lockup for documentation, decks and web headers.</text>
+  <text x="96" y="374" class="caption">Documentation, decks and headers.</text>
 
-  <rect x="504" y="260" width="392" height="132" rx="14" fill="#FFFCF6" stroke="#D9D1C0"/>
+  <rect x="504" y="260" width="392" height="146" rx="14" fill="#FFFCF6" stroke="#D9D1C0"/>
   <g transform="translate(538 284)">
     <rect width="82" height="82" rx="14" fill="#F6F2EB" stroke="#D9D1C0"/>
     <g transform="translate(11 11) scale(.47)">
@@ -65,15 +65,15 @@
     <text x="0" y="112" class="label">Negative</text>
   </g>
 
-  <rect x="64" y="428" width="376" height="78" rx="14" fill="#FFFCF6" stroke="#D9D1C0"/>
-  <text x="96" y="460" class="eyebrow">WORDMARK</text>
-  <text x="96" y="496" class="smallword">ontahí</text>
-  <text x="240" y="496" font-family="Georgia,serif" font-size="36" font-style="italic" fill="#162018">ontahí</text>
+  <rect x="64" y="436" width="376" height="78" rx="14" fill="#FFFCF6" stroke="#D9D1C0"/>
+  <text x="96" y="468" class="eyebrow">WORDMARK</text>
+  <text x="96" y="504" class="smallword">ontahí</text>
+  <text x="240" y="504" font-family="Georgia,serif" font-size="36" font-style="italic" fill="#162018">ontahí</text>
 
-  <rect x="504" y="428" width="392" height="78" rx="14" fill="#FFFCF6" stroke="#D9D1C0"/>
-  <text x="536" y="460" class="eyebrow">LINE VARIANT</text>
-  <g transform="translate(536 470) scale(.28)">
+  <rect x="504" y="436" width="392" height="78" rx="14" fill="#FFFCF6" stroke="#D9D1C0"/>
+  <text x="536" y="468" class="eyebrow">LINE VARIANT</text>
+  <g transform="translate(536 478) scale(.28)">
     <use href="#ceiboLine"/>
   </g>
-  <text x="598" y="496" class="caption">For monochrome and small technical contexts.</text>
+  <text x="598" y="504" class="caption">Small monochrome contexts.</text>
 </svg>

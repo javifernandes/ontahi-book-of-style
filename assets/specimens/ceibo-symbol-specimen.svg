@@ -65,5 +65,5 @@
     <use href="#ceibo"/>
   </g>
   <text x="672" y="424" class="label">Small sizes</text>
-  <text x="672" y="448" class="caption">Preserve recognition over detail.</text>
+  <text x="672" y="448" class="caption">Recognition over detail.</text>
 </svg>
