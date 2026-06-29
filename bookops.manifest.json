@@ -1,0 +1,65 @@
+{
+  "format": "bookops-md",
+  "version": 1,
+  "book": {
+    "slug": "ontahi",
+    "title": "The Ontahí Book of Style",
+    "subtitle": "A design language for executable ontologies",
+    "author": "Javier Fernandes",
+    "language": "en"
+  },
+  "structure": {
+    "kind": "numbered-folders-and-files",
+    "partsAreNumberedFolders": true,
+    "chaptersAreNumberedMarkdownFiles": true,
+    "rootReadmeIsMetadataOnly": true
+  },
+  "bookops": {
+    "recommendedMountPath": "docs/ontahi/book-of-style",
+    "localAssets": true,
+    "localAssetsPath": "/figures"
+  },
+  "parts": [
+    {
+      "path": "00-front-matter",
+      "title": "Front Matter"
+    },
+    {
+      "path": "01-foundation",
+      "title": "Foundation"
+    },
+    {
+      "path": "02-brand",
+      "title": "Brand"
+    },
+    {
+      "path": "03-visual-language",
+      "title": "Visual Language"
+    },
+    {
+      "path": "04-interface",
+      "title": "Interface"
+    },
+    {
+      "path": "05-writing",
+      "title": "Writing"
+    },
+    {
+      "path": "06-agent-prompts",
+      "title": "Agent Prompts"
+    },
+    {
+      "path": "07-bookops",
+      "title": "BookOps"
+    }
+  ],
+  "designTokens": {
+    "colors": {
+      "forest": "#1F2A24",
+      "olive": "#7A7F52",
+      "ceibo": "#D94C43",
+      "paper": "#F6F2EB",
+      "warmPaper": "#E8E2D3"
+    }
+  }
+}
