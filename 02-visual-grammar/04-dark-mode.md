@@ -8,6 +8,8 @@ order: 4
 
 Dark mode is essential for Ontahí because code, runtime traces and technical work often live in dark surfaces.
 
+![Ontahí dark mode surface](../assets/specimens/dark-mode-surface.svg)
+
 The dark surface is forest, not black.
 
 Use:

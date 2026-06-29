@@ -10,6 +10,8 @@ Current specimen assets:
 
 - `assets/specimens/color-palette.svg`
 - `assets/specimens/extended-palette.svg`
+- `assets/specimens/color-usage-ratio.svg`
+- `assets/specimens/dark-mode-surface.svg`
 - `assets/specimens/typography-specimen.svg`
 - `assets/specimens/layout-principles.svg`
 - `assets/specimens/ceibo-symbol-specimen.svg`

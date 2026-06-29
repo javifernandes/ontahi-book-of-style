@@ -6,9 +6,11 @@ order: 1
 
 # Color
 
-![Ontahí color palette specimen](../assets/specimens/color-palette.svg)
+Color should establish atmosphere before it asks for attention.
 
 ## Core palette
+
+![Ontahí core palette](../assets/specimens/color-palette.svg)
 
 | Token | Hex | Role |
 |---|---:|---|
@@ -31,13 +33,13 @@ order: 1
 
 ## Usage ratio
 
+![Ontahí color usage ratio](../assets/specimens/color-usage-ratio.svg)
+
 - 80% paper and neutrals
 - 15% greens and olives
 - 5% ceibo red
 
 Ceibo red is an accent. Use it for emphasis, icons, underlines and small highlights.
-
-Forest is not black. Dark mode should feel like a deep botanical surface, not like a generic terminal theme.
 
 ## Token exports
 

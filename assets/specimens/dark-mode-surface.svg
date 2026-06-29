@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="250" viewBox="0 0 760 250" role="img" aria-labelledby="title desc">
+  <title id="title">Ontahi dark mode surface</title>
+  <desc id="desc">A dark mode specimen showing Forest Dark, Forest panels, olive structure and small ceibo accents.</desc>
+  <defs>
+    <style>
+      .eyebrow{font:12px Inter,system-ui,sans-serif;letter-spacing:3px;fill:#98A16B}
+      .title{font:30px Georgia,serif;fill:#F6F2EB}
+      .label{font:13px Inter,system-ui,sans-serif;fill:#E8E2D3}
+      .muted{font:12px Inter,system-ui,sans-serif;fill:#C2B7A4}
+      .mono{font:12px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#E8E2D3}
+    </style>
+  </defs>
+  <rect width="760" height="250" rx="16" fill="#162018"/>
+  <text x="40" y="44" class="eyebrow">DARK MODE</text>
+  <text x="40" y="82" class="title">Forest, never pure black</text>
+  <path d="M40 104h680" stroke="#2B382E"/>
+
+  <g transform="translate(40 132)">
+    <rect width="270" height="76" rx="12" fill="#1F2A24" stroke="#2B382E"/>
+    <circle cx="34" cy="38" r="10" fill="#D94C43"/>
+    <text x="58" y="34" class="label">Active trace</text>
+    <text x="58" y="56" class="muted">Ceibo stays small and decisive.</text>
+  </g>
+
+  <g transform="translate(350 132)">
+    <rect width="370" height="76" rx="12" fill="#1F2A24" stroke="#2B382E"/>
+    <text x="22" y="32" class="mono">operation.materialize(task)</text>
+    <path d="M22 50h172" stroke="#7A7F52" stroke-width="5" stroke-linecap="round"/>
+    <path d="M210 50h42" stroke="#D94C43" stroke-width="5" stroke-linecap="round"/>
+    <text x="276" y="54" class="muted">botanical depth</text>
+  </g>
+</svg>
