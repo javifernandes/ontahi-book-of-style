@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 180" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="180" viewBox="0 0 360 180" role="img" aria-labelledby="title desc">
   <title id="title">Ceibo light pattern</title>
   <desc id="desc">A minimal ceibo pattern for quiet page surfaces.</desc>
   <defs>

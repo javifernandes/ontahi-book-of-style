@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480" role="img" aria-labelledby="title desc">
+  <title id="title">Ontahi typography specimen</title>
+  <desc id="desc">A typography specimen showing serif headings, humanist sans text and monospaced code for Ontahi documents.</desc>
+  <defs>
+    <style>
+      .eyebrow{font:12px Inter,system-ui,sans-serif;letter-spacing:3px;fill:#465538}
+      .serif{font-family:Georgia,serif;fill:#162018}
+      .sans{font-family:Inter,system-ui,sans-serif;fill:#162018}
+      .muted{fill:#465538}
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;fill:#162018}
+    </style>
+  </defs>
+  <rect width="960" height="480" rx="18" fill="#F6F2EB"/>
+  <path d="M72 64h816M72 405h816M612 64v341" stroke="#D9D1C0"/>
+  <text x="72" y="104" class="eyebrow">TYPOGRAPHY</text>
+  <text x="72" y="164" class="serif" font-size="58">Executable Ontology</text>
+  <text x="74" y="204" class="sans muted" font-size="17">Large headings may feel editorial, calm and precise.</text>
+  <text x="72" y="266" class="serif" font-size="28">A chapter title gives structure to thought.</text>
+  <text x="72" y="302" class="sans" font-size="17">Body text should be quiet enough for long reading and clear enough for agents to parse without ambiguity.</text>
+  <text x="72" y="336" class="sans muted" font-size="14">Captions name the asset, not the decoration.</text>
+
+  <g transform="translate(648 102)">
+    <text x="0" y="0" class="eyebrow">CODE TEXTURE</text>
+    <rect x="0" y="28" width="240" height="150" rx="12" fill="#162018"/>
+    <text x="22" y="66" class="mono" font-size="14" fill="#F6F2EB">task.define({</text>
+    <text x="42" y="94" class="mono" font-size="14" fill="#E8E2D3">name: "publish",</text>
+    <text x="42" y="122" class="mono" font-size="14" fill="#E8E2D3">durable: true</text>
+    <text x="22" y="150" class="mono" font-size="14" fill="#F6F2EB">})</text>
+    <g transform="translate(0 220)">
+      <rect width="240" height="1" fill="#D9D1C0"/>
+      <text x="0" y="38" class="serif" font-size="22">Serif</text>
+      <text x="92" y="38" class="sans" font-size="19">Sans</text>
+      <text x="174" y="38" class="mono" font-size="17">Mono</text>
+      <text x="0" y="78" class="sans muted" font-size="13">Use contrast of purpose, not contrast for spectacle.</text>
+    </g>
+  </g>
+</svg>

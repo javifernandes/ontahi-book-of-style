@@ -6,6 +6,8 @@ order: 1
 
 # Color
 
+![Ontahí color palette specimen](../assets/specimens/color-palette.svg)
+
 ## Core palette
 
 | Token | Hex | Role |
@@ -17,6 +19,8 @@ order: 1
 | Warm Paper | `#E8E2D3` | cards, panels, subtle fills |
 
 ## Extended palette
+
+![Ontahí extended palette specimen](../assets/specimens/extended-palette.svg)
 
 | Family | Dark | Base | Light |
 |---|---:|---:|---:|

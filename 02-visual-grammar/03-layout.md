@@ -6,6 +6,8 @@ order: 3
 
 # Layout
 
+![Ontahí layout principles](../assets/specimens/layout-principles.svg)
+
 Ontahí layouts should feel editorial.
 
 Prefer:

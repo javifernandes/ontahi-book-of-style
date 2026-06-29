@@ -6,22 +6,22 @@ order: 0
 
 # Manifesto
 
-Ontahí is an executable ontology.
+1. Ontahí is an executable ontology.
 
-It is not merely a framework, a data graph, a transport layer or a runtime.
+2. It is not merely a framework, a data graph, a transport layer or a runtime.
 
-It is a way of naming the world of a software system so that the world can be executed.
+3. It is a way of naming the world of a software system so that the world can be executed.
 
-Entities are not records.
+4. Entities are not records.
 
-Events are not messages.
+5. Events are not messages.
 
-Tasks are not queues.
+6. Tasks are not queues.
 
-Operations are not endpoints.
+7. Operations are not endpoints.
 
-They are categories of a living domain.
+8. They are categories of a living domain.
 
-Ontahí exists to give those categories a language.
+9. Ontahí exists to give those categories a language.
 
-A language kit ends only when someone can build from it.
+10. A language kit ends only when someone can build from it.

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="500" viewBox="0 0 960 500" role="img" aria-labelledby="title desc">
+  <title id="title">Ontahi extended palette specimen</title>
+  <desc id="desc">A clean tonal palette specimen showing Forest, Olive, Ceibo and Paper families across dark, base and light values.</desc>
+  <defs>
+    <style>
+      .eyebrow{font:12px Inter,system-ui,sans-serif;letter-spacing:3px;fill:#465538}
+      .title{font:34px Georgia,serif;fill:#162018}
+      .subtitle{font:14px Inter,system-ui,sans-serif;fill:#465538}
+      .label{font:15px Inter,system-ui,sans-serif;fill:#162018}
+      .muted{font:12px Inter,system-ui,sans-serif;fill:#465538}
+      .code{font:12px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#465538}
+    </style>
+  </defs>
+  <rect width="960" height="500" rx="18" fill="#F6F2EB"/>
+  <text x="56" y="54" class="eyebrow">EXTENDED PALETTE</text>
+  <text x="56" y="92" class="title">Tonal families</text>
+  <text x="56" y="120" class="subtitle">Use families as small systems: dark, base and light.</text>
+
+  <path d="M56 142h848" stroke="#D9D1C0"/>
+  <text x="250" y="164" class="muted">Dark</text>
+  <text x="430" y="164" class="muted">Base</text>
+  <text x="610" y="164" class="muted">Light</text>
+
+  <g transform="translate(56 184)">
+    <text x="0" y="27" class="label">Forest</text>
+    <rect x="176" y="0" width="142" height="40" rx="8" fill="#162018"/>
+    <rect x="356" y="0" width="142" height="40" rx="8" fill="#1F2A24"/>
+    <rect x="536" y="0" width="142" height="40" rx="8" fill="#2B382E"/>
+    <text x="176" y="62" class="code">#162018</text>
+    <text x="356" y="62" class="code">#1F2A24</text>
+    <text x="536" y="62" class="code">#2B382E</text>
+  </g>
+
+  <g transform="translate(56 260)">
+    <text x="0" y="27" class="label">Olive</text>
+    <rect x="176" y="0" width="142" height="40" rx="8" fill="#465538"/>
+    <rect x="356" y="0" width="142" height="40" rx="8" fill="#7A7F52"/>
+    <rect x="536" y="0" width="142" height="40" rx="8" fill="#98A16B"/>
+    <text x="176" y="62" class="code">#465538</text>
+    <text x="356" y="62" class="code">#7A7F52</text>
+    <text x="536" y="62" class="code">#98A16B</text>
+  </g>
+
+  <g transform="translate(56 336)">
+    <text x="0" y="27" class="label">Ceibo</text>
+    <rect x="176" y="0" width="142" height="40" rx="8" fill="#D94C43"/>
+    <rect x="356" y="0" width="142" height="40" rx="8" fill="#E06A61"/>
+    <rect x="536" y="0" width="142" height="40" rx="8" fill="#F1B1AC"/>
+    <text x="176" y="62" class="code">#D94C43</text>
+    <text x="356" y="62" class="code">#E06A61</text>
+    <text x="536" y="62" class="code">#F1B1AC</text>
+  </g>
+
+  <g transform="translate(56 412)">
+    <text x="0" y="27" class="label">Paper</text>
+    <rect x="176" y="0" width="142" height="40" rx="8" fill="#C2B7A4"/>
+    <rect x="356" y="0" width="142" height="40" rx="8" fill="#E8E2D3" stroke="#D9D1C0"/>
+    <rect x="536" y="0" width="142" height="40" rx="8" fill="#F6F2EB" stroke="#D9D1C0"/>
+    <text x="176" y="62" class="code">#C2B7A4</text>
+    <text x="356" y="62" class="code">#E8E2D3</text>
+    <text x="536" y="62" class="code">#F6F2EB</text>
+  </g>
+
+  <text x="760" y="206" class="muted">Forest anchors dark mode.</text>
+  <text x="760" y="282" class="muted">Olive softens structure.</text>
+  <text x="760" y="358" class="muted">Ceibo is remembered.</text>
+  <text x="760" y="434" class="muted">Paper carries the page.</text>
+</svg>

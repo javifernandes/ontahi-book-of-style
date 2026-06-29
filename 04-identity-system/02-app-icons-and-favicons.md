@@ -6,17 +6,16 @@ order: 2
 
 # App Icons and Favicons
 
-![Ontahí identity asset seeds](../assets/specimens/identity-asset-seeds.svg)
+![Ontahí app icons and favicons](../assets/specimens/app-icons-favicons.svg)
 
 The ceibo symbol should work at multiple scales:
 
 - app icon
 - favicon
 - GitHub avatar
-- CLI badge
 - PWA icon
-- VSCode extension icon
 - small documentation marker
+- social preview marker
 
 Useful variants:
 

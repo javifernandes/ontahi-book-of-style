@@ -6,9 +6,9 @@ order: 0
 
 # The Ceibo
 
-![Ontahí language kit specimen](../assets/specimens/language-kit-specimen.png)
+![Ontahí ceibo symbol specimen](../assets/specimens/ceibo-symbol-specimen.svg)
 
-This specimen is a directional reference. It shows the language as a kit: color, icons, logo variants, botanical fragments, dark surfaces, and exportable assets.
+This specimen isolates the ceibo as a symbol, not as a full brand board.
 
 The ceibo (*Erythrina crista-galli*) is the national flower of Argentina.
 

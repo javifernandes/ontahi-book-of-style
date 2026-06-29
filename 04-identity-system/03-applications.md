@@ -12,7 +12,6 @@ Good future applications:
 
 - GitHub organization avatar
 - VSCode theme
-- CLI prompt
 - documentation cover
 - slide deck
 - conference banner

@@ -6,13 +6,9 @@ order: 1
 
 # Logo
 
-![Ontahí identity system specimen](../assets/specimens/identity-system-specimen.png)
+![Ontahí logo system specimen](../assets/specimens/logo-system.svg)
 
-This specimen is a directional reference for identity: logo, isotipo, wordmark, line variant, app icons, micro-uses, floral patterns, and restrained applications.
-
-![Ontahí identity asset seeds](../assets/specimens/identity-asset-seeds.svg)
-
-The asset seed specimen shows the first editable SVG exports derived from the identity direction.
+This specimen focuses on the reusable identity pieces: primary lockup, symbol, wordmark, line variant and negative use.
 
 The primary logo combines:
 
@@ -24,7 +20,6 @@ The ceibo mark may be used independently as:
 
 - favicon
 - app icon
-- CLI icon
 - small badge
 - section marker
 - loader mark

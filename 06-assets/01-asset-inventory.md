@@ -8,12 +8,22 @@ order: 1
 
 Current specimen assets:
 
-- `assets/specimens/language-kit-specimen.png`
-- `assets/specimens/identity-system-specimen.png`
-- `assets/specimens/identity-asset-seeds.svg`
+- `assets/specimens/color-palette.svg`
+- `assets/specimens/extended-palette.svg`
+- `assets/specimens/typography-specimen.svg`
+- `assets/specimens/layout-principles.svg`
+- `assets/specimens/ceibo-symbol-specimen.svg`
+- `assets/specimens/logo-system.svg`
+- `assets/specimens/app-icons-favicons.svg`
 - `assets/specimens/iconography-grid.svg`
 - `assets/specimens/botanical-pattern-seeds.svg`
 - `assets/specimens/editorial-primitives.svg`
+
+Reference boards:
+
+- `assets/specimens/language-kit-specimen.png`
+- `assets/specimens/identity-system-specimen.png`
+- `assets/specimens/identity-asset-seeds.svg`
 
 Current token assets:
 

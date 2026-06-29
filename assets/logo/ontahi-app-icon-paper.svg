@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
   <title id="title">Ontahi app icon on paper</title>
   <desc id="desc">A rounded app icon using the Ontahi ceibo symbol on warm paper.</desc>
   <rect x="4" y="4" width="120" height="120" rx="28" fill="#F6F2EB" stroke="#E8E2D3" stroke-width="2"/>

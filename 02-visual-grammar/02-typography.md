@@ -6,6 +6,8 @@ order: 2
 
 # Typography
 
+![Ontahí typography specimen](../assets/specimens/typography-specimen.svg)
+
 Typography carries the same responsibility as code: it gives structure to thought.
 
 ## Direction

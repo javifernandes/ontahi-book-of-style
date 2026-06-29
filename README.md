@@ -47,4 +47,4 @@ Ontahí should feel editorial, botanical, precise, warm, and technically serious
 
 The architecture language should stay grounded in what exists. In the current system, tasks are the concrete durable execution surface, and durable operations are the architectural way to expose that behavior. The term workflow should remain reserved for a possible later level of dynamic, user-created long orchestration, not treated as the current core.
 
-The design language should be treated as a kit, not a brand book. A brand book ends at the logo; this kit should help someone make a chapter, a CLI prompt, a VSCode theme, a slide, a sticker, or a BookOps page without losing the Ontahí voice.
+The design language should be treated as a kit, not a brand book. A brand book ends at the logo; this kit should help someone make a chapter, a VSCode theme, a slide, a sticker, a documentation page, or a BookOps page without losing the Ontahí voice.
