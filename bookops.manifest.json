@@ -17,7 +17,61 @@
   "bookops": {
     "recommendedMountPath": "docs/ontahi/book-of-style",
     "localAssets": true,
-    "localAssetsPath": "/figures"
+    "localAssetsPath": "/figures",
+    "style": {
+      "version": 1,
+      "name": "ontahi-botanical-language",
+      "tokens": {
+        "color": {
+          "background": "#F6F2EB",
+          "foreground": "#1F2A24",
+          "mutedForeground": "#5F746D",
+          "surface": "#FBF8F0",
+          "surfaceWarm": "#E8E2D3",
+          "border": "#D9D1C0",
+          "accent": "#D94C43",
+          "accentSoft": "#F1B1AC",
+          "organic": "#7A7F52",
+          "forest": "#1F2A24"
+        },
+        "typography": {
+          "heading": "Lora, ui-serif, Georgia, serif",
+          "body": "Inter, ui-sans-serif, system-ui, sans-serif",
+          "mono": "JetBrains Mono, ui-monospace, SFMono-Regular, monospace"
+        },
+        "radius": {
+          "panel": "8px",
+          "control": "6px"
+        }
+      },
+      "reader": {
+        "content": {
+          "background": "#FFFFFF",
+          "foreground": "#1F2A24",
+          "headingColor": "#0F252C",
+          "captionColor": "#5F746D",
+          "linkColor": "#D94C43"
+        },
+        "figure": {
+          "background": "#F6F2EB",
+          "border": "#E8E2D3",
+          "captionColor": "#5F746D"
+        },
+        "code": {
+          "background": "#F6F2EB",
+          "border": "#D9D1C0",
+          "foreground": "#1F2A24"
+        }
+      },
+      "navigation": {
+        "background": "#FFFFFF",
+        "foreground": "#1F2A24",
+        "mutedForeground": "#6F8580",
+        "accent": "#D94C43",
+        "activeBackground": "#E6F5F7",
+        "border": "#D9E4E8"
+      }
+    }
   },
   "assets": {
     "logos": "assets/logo",
