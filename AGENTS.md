@@ -2,6 +2,8 @@
 
 Use this repository as style and context for Ontahí artifacts.
 
+Think of it as a language kit, not as public product documentation and not as a complete design system.
+
 Guidelines:
 
 1. Keep the book lightweight and useful for humans and agents.
@@ -14,3 +16,5 @@ Guidelines:
 8. Avoid generic SaaS, AI-hype, crypto, cyberpunk, neon, glassmorphism, and dashboard-heavy aesthetics.
 9. When adding assets, prefer small composable pieces that can combine from micro to macro, like a biological system.
 10. Keep `bookops.manifest.json` aligned with the folder structure when adding, removing, or renaming parts.
+11. Use the specimen images as references for direction, not as final exported assets.
+12. Prefer deriving concrete rules, tokens, prompts, and asset names over expanding the prose.

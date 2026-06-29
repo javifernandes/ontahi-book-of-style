@@ -1,6 +1,6 @@
 ---
 title: Language and World
-part: Foundation
+part: Foundations
 order: 3
 ---
 

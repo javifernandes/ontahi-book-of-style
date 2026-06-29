@@ -3,8 +3,8 @@
   "version": 1,
   "book": {
     "slug": "ontahi",
-    "title": "The Ontahí Book of Style",
-    "subtitle": "A design language for executable ontologies",
+    "title": "The Ontahí Language Kit",
+    "subtitle": "A compact visual and editorial language for executable ontologies",
     "author": "Javier Fernandes",
     "language": "en"
   },
@@ -26,40 +26,48 @@
     },
     {
       "path": "01-foundation",
-      "title": "Foundation"
+      "title": "Foundations"
     },
     {
-      "path": "02-brand",
-      "title": "Brand"
+      "path": "02-visual-grammar",
+      "title": "Visual Grammar"
     },
     {
-      "path": "03-visual-language",
-      "title": "Visual Language"
+      "path": "03-botanical-language",
+      "title": "Botanical Language"
     },
     {
-      "path": "04-interface",
-      "title": "Interface"
+      "path": "04-identity-system",
+      "title": "Identity System"
     },
     {
-      "path": "05-writing",
-      "title": "Writing"
+      "path": "05-interface-editorial",
+      "title": "Interface and Editorial"
     },
     {
-      "path": "06-agent-prompts",
-      "title": "Agent Prompts"
+      "path": "06-assets",
+      "title": "Iconography and Assets"
     },
     {
-      "path": "07-bookops",
-      "title": "BookOps"
+      "path": "07-ai-agents",
+      "title": "AI and Agents"
     }
   ],
   "designTokens": {
     "colors": {
+      "forestDark": "#162018",
       "forest": "#1F2A24",
+      "forestLight": "#2B382E",
+      "oliveDark": "#465538",
       "olive": "#7A7F52",
+      "oliveLight": "#98A16B",
       "ceibo": "#D94C43",
+      "ceiboLight": "#E06A61",
+      "ceiboSoft": "#F1B1AC",
       "paper": "#F6F2EB",
-      "warmPaper": "#E8E2D3"
+      "warmPaper": "#E8E2D3",
+      "paperShade": "#D9D1C0",
+      "paperDeep": "#C2B7A4"
     }
   }
 }

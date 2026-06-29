@@ -1,6 +1,6 @@
 ---
 title: Executable Ontology
-part: Foundation
+part: Foundations
 order: 2
 ---
 

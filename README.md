@@ -1,8 +1,12 @@
-# The Ontahí Book of Style
+# The Ontahí Language Kit
 
-This repository is the source of truth for the Ontahí design language.
+This repository is the source of truth for the Ontahí visual and editorial language.
 
-It contains a lightweight, versionable style book for Ontahí: its visual direction, writing tone, interface principles, agent prompts, and BookOps import notes. The book is intentionally small at this stage so humans and coding agents can use it as context without turning it into a large documentation system too early.
+It contains a lightweight, versionable language kit for Ontahí: philosophy, visual grammar, botanical motifs, identity rules, interface/editorial principles, asset inventory, and agent prompts.
+
+This is not the public user documentation for Ontahí. It is the generative source that should help humans and coding agents create documentation, apps, slides, diagrams, assets, and examples that feel like they belong to the same world.
+
+The kit is intentionally small at this stage. It should remain useful before it becomes exhaustive.
 
 ## Structure
 
@@ -31,7 +35,7 @@ node dist/sources/markdown/cli.js \
   --input ../docs/ontahi/book-of-style \
   --output ../generated/ontahi.json \
   --book-slug ontahi \
-  --title "The Ontahí Book of Style" \
+  --title "The Ontahí Language Kit" \
   --author "Javier Fernandes" \
   --language en \
   --local-assets
@@ -42,3 +46,5 @@ node dist/sources/markdown/cli.js \
 Ontahí should feel editorial, botanical, precise, warm, and technically serious. It should avoid generic SaaS, AI-hype, crypto, cyberpunk, and dashboard-heavy aesthetics.
 
 The architecture language should stay grounded in what exists. In the current system, tasks are the concrete durable execution surface, and durable operations are the architectural way to expose that behavior. The term workflow should remain reserved for a possible later level of dynamic, user-created long orchestration, not treated as the current core.
+
+The design language should be treated as a kit, not a brand book. A brand book ends at the logo; this kit should help someone make a chapter, a CLI prompt, a VSCode theme, a slide, a sticker, or a BookOps page without losing the Ontahí voice.

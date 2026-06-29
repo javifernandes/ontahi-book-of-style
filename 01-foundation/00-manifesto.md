@@ -1,6 +1,6 @@
 ---
 title: Manifesto
-part: Foundation
+part: Foundations
 order: 0
 ---
 
@@ -23,3 +23,5 @@ Operations are not endpoints.
 They are categories of a living domain.
 
 Ontahí exists to give those categories a language.
+
+A language kit ends only when someone can build from it.

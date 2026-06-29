@@ -1,6 +1,6 @@
 ---
 title: Origin
-part: Foundation
+part: Foundations
 order: 1
 ---
 

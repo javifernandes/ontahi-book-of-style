@@ -1,0 +1,26 @@
+---
+title: Applications
+part: Identity System
+order: 3
+---
+
+# Applications
+
+Ontahí applications should feel restrained and memorable.
+
+Good future applications:
+
+- GitHub organization avatar
+- VSCode theme
+- CLI prompt
+- documentation cover
+- slide deck
+- conference banner
+- notebook sticker
+- bookmark
+- book cover
+- small physical stationery
+
+Merchandising should be quiet: small marks, good materials, careful typography.
+
+The best object should feel like it came from a botanical library, not a software booth.
