@@ -6,6 +6,8 @@ order: 9
 
 # Editorial Primitives
 
+![Ontahí editorial primitives](../assets/specimens/editorial-primitives.svg)
+
 BookOps and Ontahí documentation should define visual treatment for:
 
 - titles

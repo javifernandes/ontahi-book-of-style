@@ -6,6 +6,8 @@ order: 1
 
 # Patterns and Texture
 
+![Ontahí botanical pattern seeds](../assets/specimens/botanical-pattern-seeds.svg)
+
 The subtle ceibo outline pattern can be used as a background texture.
 
 ## Rules
@@ -32,3 +34,9 @@ Useful variants:
 - single branch
 - flower only
 - leaf only
+
+## Current assets
+
+- `assets/patterns/ceibo-outline.svg`
+- `assets/patterns/ceibo-dense.svg`
+- `assets/patterns/ceibo-light.svg`

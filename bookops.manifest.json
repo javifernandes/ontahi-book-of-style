@@ -19,6 +19,13 @@
     "localAssets": true,
     "localAssetsPath": "/figures"
   },
+  "assets": {
+    "logos": "assets/logo",
+    "icons": "assets/icons",
+    "patterns": "assets/patterns",
+    "palette": "assets/palette",
+    "specimens": "assets/specimens"
+  },
   "parts": [
     {
       "path": "00-front-matter",

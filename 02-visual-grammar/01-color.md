@@ -35,4 +35,15 @@ Ceibo red is an accent. Use it for emphasis, icons, underlines and small highlig
 
 Forest is not black. Dark mode should feel like a deep botanical surface, not like a generic terminal theme.
 
+## Token exports
+
+Current token files:
+
+- `assets/palette/ontahi-palette.json`
+- `assets/palette/ontahi-palette.css`
+- `assets/palette/ontahi-palette.ts`
+- `assets/palette/tailwind-preset.ts`
+
+Tokens should be portable before they are clever.
+
 Red should be remembered, not noticed.

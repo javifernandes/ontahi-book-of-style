@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 180" role="img" aria-labelledby="title desc">
+  <title id="title">Ceibo dense pattern</title>
+  <desc id="desc">A denser low-contrast botanical pattern built from aligned ceibo sprigs.</desc>
+  <defs>
+    <clipPath id="canvas"><rect width="360" height="180"/></clipPath>
+    <g id="sprig" fill="none" stroke="#C2B7A4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M16 126C42 91 75 64 120 40"/>
+      <path d="M51 86C33 79 20 64 15 43C36 46 50 63 51 86Z"/>
+      <path d="M73 68C68 48 73 29 90 14C99 35 93 55 73 68Z"/>
+      <path d="M92 55C108 40 129 34 151 39C137 57 116 64 92 55Z"/>
+      <path d="M42 101C25 103 12 113 3 130C23 130 37 120 42 101Z"/>
+    </g>
+  </defs>
+  <rect width="360" height="180" fill="#F6F2EB"/>
+  <g clip-path="url(#canvas)" opacity=".52">
+    <use href="#sprig" x="8" y="18"/>
+    <use href="#sprig" x="116" y="34" transform="rotate(-12 196 102)"/>
+    <use href="#sprig" x="230" y="16" transform="rotate(15 310 84)"/>
+    <use href="#sprig" x="36" y="54" transform="rotate(10 116 122)"/>
+  </g>
+</svg>

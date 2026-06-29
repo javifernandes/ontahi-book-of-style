@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Ontahi identity asset seeds</title>
+  <desc id="desc">A specimen sheet showing initial editable Ontahi identity assets.</desc>
+  <defs>
+    <g id="ceibo">
+      <path d="M48 58c-5 10-7 20-3 31" fill="none" stroke="var(--stem, #465538)" stroke-width="5" stroke-linecap="round"/>
+      <path d="M45 68c-12-6-21-3-27 8 11 2 21-1 27-8Z" fill="var(--leaf, #7A7F52)"/>
+      <path d="M50 63c-14-2-24-10-30-23 15-1 25 7 30 23Z" fill="var(--petal, #D94C43)"/>
+      <path d="M54 58c-7-13-6-26 2-38 10 12 9 25-2 38Z" fill="var(--petal2, #E06A61)"/>
+      <path d="M58 60c7-13 18-19 32-19-5 14-15 21-32 19Z" fill="var(--petal, #D94C43)"/>
+      <path d="M57 66c12 3 21 11 27 24-15 0-25-8-27-24Z" fill="var(--petal2, #E06A61)"/>
+      <path d="M46 60c-12 6-24 6-35 0 9-10 22-10 35 0Z" fill="var(--petal, #D94C43)"/>
+      <circle cx="52" cy="63" r="5" fill="var(--center, #F6F2EB)"/>
+    </g>
+  </defs>
+  <rect width="1200" height="620" rx="18" fill="#F6F2EB"/>
+  <path d="M0 120h1200M0 385h1200M400 0v620M800 0v620" stroke="#D9D1C0" stroke-width="1"/>
+  <text x="42" y="58" fill="#465538" font-family="Inter, sans-serif" font-size="18" letter-spacing="4">IDENTITY ASSET SEEDS</text>
+  <text x="42" y="105" fill="#162018" font-family="Georgia, serif" font-size="56">Ontahi</text>
+  <text x="44" y="140" fill="#D94C43" font-family="Inter, sans-serif" font-size="16" letter-spacing="6">EXECUTABLE ONTOLOGY</text>
+  <use href="#ceibo" x="54" y="190" width="150" height="150"/>
+  <text x="52" y="358" fill="#162018" font-family="Inter, sans-serif" font-size="18">Primary symbol</text>
+  <g transform="translate(452 150) scale(1.65)">
+    <use href="#ceibo"/>
+  </g>
+  <text x="452" y="358" fill="#162018" font-family="Inter, sans-serif" font-size="18">Full color</text>
+  <g transform="translate(852 150) scale(1.65)" style="--petal:#162018;--petal2:#162018;--leaf:#162018;--stem:#162018;--center:#F6F2EB">
+    <use href="#ceibo"/>
+  </g>
+  <text x="852" y="358" fill="#162018" font-family="Inter, sans-serif" font-size="18">Monochrome</text>
+  <rect x="42" y="425" width="180" height="140" rx="26" fill="#162018"/>
+  <g transform="translate(76 442) scale(1.05)">
+    <use href="#ceibo"/>
+  </g>
+  <text x="42" y="595" fill="#162018" font-family="Inter, sans-serif" font-size="16">App icon / forest</text>
+  <rect x="442" y="425" width="180" height="140" rx="26" fill="#F6F2EB" stroke="#D9D1C0"/>
+  <g transform="translate(476 442) scale(1.05)">
+    <use href="#ceibo"/>
+  </g>
+  <text x="442" y="595" fill="#162018" font-family="Inter, sans-serif" font-size="16">App icon / paper</text>
+  <rect x="842" y="425" width="180" height="140" rx="26" fill="#D94C43"/>
+  <g transform="translate(876 442) scale(1.05)" style="--petal:#F6F2EB;--petal2:#E8E2D3;--leaf:#F6F2EB;--stem:#F6F2EB;--center:#D94C43">
+    <use href="#ceibo"/>
+  </g>
+  <text x="842" y="595" fill="#162018" font-family="Inter, sans-serif" font-size="16">Negative on accent</text>
+</svg>

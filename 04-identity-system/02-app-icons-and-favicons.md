@@ -6,6 +6,8 @@ order: 2
 
 # App Icons and Favicons
 
+![Ontahí identity asset seeds](../assets/specimens/identity-asset-seeds.svg)
+
 The ceibo symbol should work at multiple scales:
 
 - app icon
@@ -25,3 +27,5 @@ Useful variants:
 - line variant for small technical contexts
 
 At tiny sizes, preserve recognition over detail.
+
+The current app icon seeds are SVG source files, not final platform exports.

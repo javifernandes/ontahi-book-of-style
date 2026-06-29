@@ -1,0 +1,17 @@
+export const ontahiPalette = {
+  forestDark: '#162018',
+  forest: '#1F2A24',
+  forestLight: '#2B382E',
+  oliveDark: '#465538',
+  olive: '#7A7F52',
+  oliveLight: '#98A16B',
+  ceibo: '#D94C43',
+  ceiboLight: '#E06A61',
+  ceiboSoft: '#F1B1AC',
+  paper: '#F6F2EB',
+  warmPaper: '#E8E2D3',
+  paperShade: '#D9D1C0',
+  paperDeep: '#C2B7A4',
+} as const;
+
+export type OntahiColorToken = keyof typeof ontahiPalette;

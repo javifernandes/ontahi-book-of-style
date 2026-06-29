@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 180" role="img" aria-labelledby="title desc">
+  <title id="title">Ceibo light pattern</title>
+  <desc id="desc">A minimal ceibo pattern for quiet page surfaces.</desc>
+  <defs>
+    <clipPath id="canvas"><rect width="360" height="180"/></clipPath>
+    <g id="sprig" fill="none" stroke="#D9D1C0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M18 118C42 86 72 62 112 42"/>
+      <path d="M51 83C35 77 23 63 19 45C37 48 49 63 51 83Z"/>
+      <path d="M72 66C68 49 73 33 87 20C95 38 90 55 72 66Z"/>
+      <path d="M90 55C104 44 122 39 141 44C129 58 110 63 90 55Z"/>
+    </g>
+  </defs>
+  <rect width="360" height="180" fill="#F6F2EB"/>
+  <g clip-path="url(#canvas)" opacity=".45">
+    <use href="#sprig" x="50" y="26"/>
+    <use href="#sprig" x="205" y="48" transform="rotate(-10 278 112)"/>
+  </g>
+</svg>

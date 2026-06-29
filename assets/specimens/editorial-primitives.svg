@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Ontahi editorial primitives</title>
+  <desc id="desc">A specimen page showing editorial primitives for BookOps chapters.</desc>
+  <rect width="1200" height="760" rx="18" fill="#F6F2EB"/>
+  <path d="M80 84h1040M80 676h1040" stroke="#D9D1C0"/>
+  <text x="80" y="140" fill="#465538" font-family="Inter, sans-serif" font-size="15" letter-spacing="4">EDITORIAL PRIMITIVES</text>
+  <text x="80" y="205" fill="#162018" font-family="Georgia, serif" font-size="58">A chapter should breathe</text>
+  <text x="82" y="252" fill="#465538" font-family="Inter, sans-serif" font-size="20">Hierarchy, silence, captions, callouts and code should feel intentionally placed.</text>
+  <g transform="translate(80 315)">
+    <rect width="310" height="220" rx="10" fill="#E8E2D3" opacity=".65" stroke="#D9D1C0"/>
+    <text x="24" y="44" fill="#162018" font-family="Georgia, serif" font-size="30">Quote</text>
+    <path d="M24 68v62" stroke="#D94C43" stroke-width="4" stroke-linecap="round"/>
+    <text x="44" y="82" fill="#162018" font-family="Georgia, serif" font-size="18">Documentation is literature</text>
+    <text x="44" y="109" fill="#162018" font-family="Georgia, serif" font-size="18">for future engineers.</text>
+    <text x="44" y="154" fill="#465538" font-family="Inter, sans-serif" font-size="13">Use quotes sparingly.</text>
+    <text x="44" y="176" fill="#465538" font-family="Inter, sans-serif" font-size="13">Let them anchor an idea.</text>
+  </g>
+  <g transform="translate(445 315)">
+    <rect width="310" height="220" rx="10" fill="#162018"/>
+    <text x="24" y="44" fill="#E8E2D3" font-family="Inter, sans-serif" font-size="16">Code surface</text>
+    <text x="24" y="88" fill="#98A16B" font-family="JetBrains Mono, monospace" font-size="15">operation.define({</text>
+    <text x="48" y="118" fill="#F6F2EB" font-family="JetBrains Mono, monospace" font-size="15">name: 'publishBook',</text>
+    <text x="48" y="148" fill="#E06A61" font-family="JetBrains Mono, monospace" font-size="15">durable: true</text>
+    <text x="24" y="178" fill="#98A16B" font-family="JetBrains Mono, monospace" font-size="15">})</text>
+  </g>
+  <g transform="translate(810 315)">
+    <rect width="310" height="220" rx="10" fill="#F6F2EB" stroke="#D9D1C0"/>
+    <text x="24" y="44" fill="#162018" font-family="Georgia, serif" font-size="30">Figure</text>
+    <circle cx="88" cy="120" r="30" fill="none" stroke="#7A7F52" stroke-width="3"/>
+    <circle cx="168" cy="120" r="30" fill="none" stroke="#D94C43" stroke-width="3"/>
+    <path d="M118 120h20" stroke="#465538" stroke-width="3" stroke-linecap="round"/>
+    <text x="24" y="180" fill="#465538" font-family="Inter, sans-serif" font-size="13">Captions explain meaning, not decoration.</text>
+  </g>
+  <text x="80" y="628" fill="#465538" font-family="Inter, sans-serif" font-size="16">Every primitive should help the reader decide where to look next.</text>
+</svg>

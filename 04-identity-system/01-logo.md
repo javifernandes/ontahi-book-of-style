@@ -10,6 +10,10 @@ order: 1
 
 This specimen is a directional reference for identity: logo, isotipo, wordmark, line variant, app icons, micro-uses, floral patterns, and restrained applications.
 
+![Ontahí identity asset seeds](../assets/specimens/identity-asset-seeds.svg)
+
+The asset seed specimen shows the first editable SVG exports derived from the identity direction.
+
 The primary logo combines:
 
 - a stylized ceibo flower
@@ -31,3 +35,11 @@ The mark should remain organic, asymmetric and botanical.
 Avoid turning it into a generic tech symbol.
 
 The line variant is especially useful for small, monochrome, or code-adjacent contexts.
+
+## Current assets
+
+- `assets/logo/ontahi-symbol.svg`
+- `assets/logo/ontahi-symbol-line.svg`
+- `assets/logo/ontahi-symbol-negative.svg`
+- `assets/logo/ontahi-app-icon-forest.svg`
+- `assets/logo/ontahi-app-icon-paper.svg`

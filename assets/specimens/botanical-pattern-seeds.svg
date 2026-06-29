@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Ontahi botanical pattern seeds</title>
+  <desc id="desc">A specimen sheet showing outline, dense and light ceibo pattern directions.</desc>
+  <defs>
+    <g id="sprig" fill="none" stroke="#C2B7A4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M16 126C42 91 75 64 120 40"/>
+      <path d="M51 86C33 79 20 64 15 43C36 46 50 63 51 86Z"/>
+      <path d="M73 68C68 48 73 29 90 14C99 35 93 55 73 68Z"/>
+      <path d="M92 55C108 40 129 34 151 39C137 57 116 64 92 55Z"/>
+      <path d="M42 101C25 103 12 113 3 130C23 130 37 120 42 101Z"/>
+    </g>
+    <clipPath id="outline-card"><rect x="48" y="170" width="330" height="310" rx="14"/></clipPath>
+    <clipPath id="dense-card"><rect x="435" y="170" width="330" height="310" rx="14"/></clipPath>
+    <clipPath id="light-card"><rect x="822" y="170" width="330" height="310" rx="14"/></clipPath>
+  </defs>
+  <rect width="1200" height="620" rx="18" fill="#F6F2EB"/>
+  <text x="48" y="62" fill="#465538" font-family="Inter, sans-serif" font-size="15" letter-spacing="4">BOTANICAL LANGUAGE</text>
+  <text x="48" y="114" fill="#162018" font-family="Georgia, serif" font-size="48">Pattern seeds</text>
+  <rect x="48" y="170" width="330" height="310" rx="14" fill="#F6F2EB" stroke="#D9D1C0"/>
+  <g clip-path="url(#outline-card)" opacity=".7">
+    <use href="#sprig" x="105" y="232"/>
+    <use href="#sprig" x="195" y="278" transform="rotate(-12 275 346)"/>
+  </g>
+  <text x="72" y="530" fill="#162018" font-family="Inter, sans-serif" font-size="20">Outline</text>
+  <text x="72" y="560" fill="#465538" font-family="Inter, sans-serif" font-size="14">Chapter openings and quiet surfaces.</text>
+  <rect x="435" y="170" width="330" height="310" rx="14" fill="#F6F2EB" stroke="#D9D1C0"/>
+  <g clip-path="url(#dense-card)" opacity=".52">
+    <use href="#sprig" x="445" y="220"/>
+    <use href="#sprig" x="540" y="246" transform="rotate(-12 620 314)"/>
+    <use href="#sprig" x="630" y="204" transform="rotate(16 710 272)"/>
+    <use href="#sprig" x="480" y="330" transform="rotate(8 560 398)"/>
+  </g>
+  <text x="459" y="530" fill="#162018" font-family="Inter, sans-serif" font-size="20">Dense</text>
+  <text x="459" y="560" fill="#465538" font-family="Inter, sans-serif" font-size="14">Covers, slides, and high-atmosphere pages.</text>
+  <rect x="822" y="170" width="330" height="310" rx="14" fill="#F6F2EB" stroke="#D9D1C0"/>
+  <g clip-path="url(#light-card)" opacity=".36">
+    <use href="#sprig" x="910" y="242"/>
+    <use href="#sprig" x="1015" y="314" transform="rotate(-12 1095 382)"/>
+  </g>
+  <text x="846" y="530" fill="#162018" font-family="Inter, sans-serif" font-size="20">Light</text>
+  <text x="846" y="560" fill="#465538" font-family="Inter, sans-serif" font-size="14">Background texture behind readable text.</text>
+</svg>

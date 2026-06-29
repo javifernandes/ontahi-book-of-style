@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 180" role="img" aria-labelledby="title desc">
+  <title id="title">Ceibo outline pattern</title>
+  <desc id="desc">A low-contrast ceibo outline pattern built from aligned stems and leaves.</desc>
+  <defs>
+    <clipPath id="canvas"><rect width="360" height="180"/></clipPath>
+    <g id="sprig" fill="none" stroke="#C2B7A4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M16 126C42 91 75 64 120 40"/>
+      <path d="M51 86C33 79 20 64 15 43C36 46 50 63 51 86Z"/>
+      <path d="M73 68C68 48 73 29 90 14C99 35 93 55 73 68Z"/>
+      <path d="M92 55C108 40 129 34 151 39C137 57 116 64 92 55Z"/>
+      <path d="M42 101C25 103 12 113 3 130C23 130 37 120 42 101Z"/>
+    </g>
+  </defs>
+  <rect width="360" height="180" fill="#F6F2EB"/>
+  <g clip-path="url(#canvas)" opacity=".62">
+    <use href="#sprig" x="20" y="16"/>
+    <use href="#sprig" x="196" y="20" transform="rotate(8 276 88)"/>
+  </g>
+</svg>
