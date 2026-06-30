@@ -6,7 +6,7 @@ order: 0
 
 # Manifesto
 
-1. Ontahí is an executable ontology.
+1. \concept{Ontahí} is an executable ontology.
 
 2. It is not merely a framework, a data graph, a transport layer or a runtime.
 
@@ -22,6 +22,6 @@ order: 0
 
 8. They are categories of a living domain.
 
-9. Ontahí exists to give those categories a language.
+9. \concept{Ontahí} exists to give those categories a language.
 
 10. A language kit ends only when someone can build from it.

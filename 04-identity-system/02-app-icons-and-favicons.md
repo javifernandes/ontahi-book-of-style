@@ -8,7 +8,7 @@ order: 2
 
 ![Ontahí app icons and favicons](../assets/specimens/app-icons-favicons.svg)
 
-The ceibo symbol should work at multiple scales:
+The \concept{ceibo symbol} should work at multiple scales:
 
 - app icon
 - favicon
@@ -25,6 +25,6 @@ Useful variants:
 - monochrome Forest
 - line variant for small technical contexts
 
-At tiny sizes, preserve recognition over detail.
+At tiny sizes, preserve \term{recognition} over detail.
 
-The current app icon seeds are SVG source files, not final platform exports.
+The current app icon seeds are \term{SVG source files}, not final platform exports.

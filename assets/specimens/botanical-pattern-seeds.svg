@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Ontahi botanical pattern seeds</title>
   <desc id="desc">A specimen sheet showing clean outline, dense and light ceibo pattern directions.</desc>
   <defs>
@@ -15,36 +15,26 @@
       <path d="M94 48C110 36 128 32 146 38C134 53 116 58 94 48Z"/>
       <path d="M38 98C24 100 13 109 6 122C22 123 35 114 38 98Z"/>
     </g>
-    <clipPath id="outline-card"><rect x="70" y="170" width="300" height="250" rx="14"/></clipPath>
-    <clipPath id="dense-card"><rect x="450" y="170" width="300" height="250" rx="14"/></clipPath>
-    <clipPath id="light-card"><rect x="830" y="170" width="300" height="250" rx="14"/></clipPath>
+    <clipPath id="outline-card"><rect x="70" y="60" width="300" height="250" rx="14"/></clipPath>
+    <clipPath id="dense-card"><rect x="450" y="60" width="300" height="250" rx="14"/></clipPath>
+    <clipPath id="light-card"><rect x="830" y="60" width="300" height="250" rx="14"/></clipPath>
   </defs>
-  <rect width="1200" height="620" rx="18" fill="#F6F2EB"/>
-  <text x="70" y="62" class="eyebrow">BOTANICAL LANGUAGE</text>
-  <text x="70" y="114" class="title">Pattern seeds</text>
+  <rect width="1200" height="360" rx="18" fill="#F6F2EB"/>
 
-  <rect x="70" y="170" width="300" height="250" rx="14" fill="#FFFCF6" stroke="#D9D1C0"/>
+  <rect x="70" y="60" width="300" height="250" rx="14" fill="#FFFCF6" stroke="#D9D1C0"/>
   <g clip-path="url(#outline-card)" opacity=".7">
-    <use href="#sprig" x="120" y="226"/>
-    <use href="#sprig" x="190" y="260" transform="rotate(-14 254 320)"/>
+    <use href="#sprig" x="120" y="116"/>
+    <use href="#sprig" x="190" y="150" transform="rotate(-14 254 210)"/>
   </g>
-  <text x="70" y="474" class="label">Outline</text>
-  <text x="70" y="504" class="caption">Chapter openings and quiet surfaces.</text>
-
-  <rect x="450" y="170" width="300" height="250" rx="14" fill="#FFFCF6" stroke="#D9D1C0"/>
+  <rect x="450" y="60" width="300" height="250" rx="14" fill="#FFFCF6" stroke="#D9D1C0"/>
   <g clip-path="url(#dense-card)" opacity=".52">
-    <use href="#sprig" x="486" y="206"/>
-    <use href="#sprig" x="560" y="252" transform="rotate(-10 624 312)"/>
-    <use href="#sprig" x="506" y="314" transform="rotate(8 570 374)"/>
+    <use href="#sprig" x="486" y="96"/>
+    <use href="#sprig" x="560" y="142" transform="rotate(-10 624 202)"/>
+    <use href="#sprig" x="506" y="204" transform="rotate(8 570 264)"/>
   </g>
-  <text x="450" y="474" class="label">Dense</text>
-  <text x="450" y="504" class="caption">Covers, slides, and atmospheric pages.</text>
-
-  <rect x="830" y="170" width="300" height="250" rx="14" fill="#FFFCF6" stroke="#D9D1C0"/>
+  <rect x="830" y="60" width="300" height="250" rx="14" fill="#FFFCF6" stroke="#D9D1C0"/>
   <g clip-path="url(#light-card)" opacity=".34">
-    <use href="#sprig" x="902" y="236"/>
-    <use href="#sprig" x="980" y="292" transform="rotate(-12 1044 352)"/>
+    <use href="#sprig" x="902" y="126"/>
+    <use href="#sprig" x="980" y="182" transform="rotate(-12 1044 242)"/>
   </g>
-  <text x="830" y="474" class="label">Light</text>
-  <text x="830" y="504" class="caption">Background texture behind readable text.</text>
 </svg>

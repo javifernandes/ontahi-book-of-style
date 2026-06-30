@@ -6,7 +6,7 @@ order: 1
 
 # Color
 
-Color should establish atmosphere before it asks for attention.
+\concept{Color} should establish \term{atmosphere} before it asks for attention.
 
 ## Core palette
 
@@ -39,7 +39,7 @@ Color should establish atmosphere before it asks for attention.
 - 15% greens and olives
 - 5% ceibo red
 
-Ceibo red is an accent. Use it for emphasis, icons, underlines and small highlights.
+\term{Ceibo red} is an \concept{accent}. Use it for emphasis, icons, underlines and small highlights.
 
 ## Token exports
 
@@ -50,6 +50,6 @@ Current token files:
 - `assets/palette/ontahi-palette.ts`
 - `assets/palette/tailwind-preset.ts`
 
-Tokens should be portable before they are clever.
+\term{Tokens} should be portable before they are clever.
 
 Red should be remembered, not noticed.

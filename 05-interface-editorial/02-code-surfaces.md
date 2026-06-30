@@ -6,9 +6,9 @@ order: 2
 
 # Code Surfaces
 
-Code surfaces may use a warm dark theme.
+\concept{Code surfaces} may use a warm dark theme.
 
-They should feel like a nighttime notebook, not a hacker terminal.
+They should feel like a \term{nighttime notebook}, not a hacker terminal.
 
 ## Direction
 
@@ -17,4 +17,4 @@ They should feel like a nighttime notebook, not a hacker terminal.
 - accents: ceibo red, olive, cyan sparingly
 - window chrome may be subtle and warm
 
-Code examples should be short, semantic and expressive.
+\term{Code examples} should be short, semantic and expressive.

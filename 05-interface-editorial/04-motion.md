@@ -6,14 +6,14 @@ order: 4
 
 # Motion
 
-Motion should be quiet and organic.
+\concept{Motion} should be quiet and organic.
 
 Good motion:
 
 - slow reveals
 - gentle fades
 - small positional shifts
-- growth-like transitions
+- \term{growth-like transitions}
 - drawing lines gradually
 
 Avoid:

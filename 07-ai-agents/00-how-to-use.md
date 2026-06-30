@@ -6,11 +6,11 @@ order: 0
 
 # How Agents Should Use This Book
 
-When generating Ontahí artifacts, agents should first internalize the philosophy and then apply visual rules.
+When generating \concept{Ontahí artifacts}, agents should first internalize the philosophy and then apply visual rules.
 
 Do not copy the flyer literally.
 
-Extract its principles:
+Extract its \term{principles}:
 
 - editorial composition
 - botanical atmosphere
@@ -19,4 +19,4 @@ Extract its principles:
 - code as crafted text
 - ceibo as symbolic anchor
 
-Agents should produce artifacts that feel derived from a shared grammar, not screenshots pasted from a specimen.
+Agents should produce artifacts that feel derived from a \term{shared grammar}, not screenshots pasted from a specimen.

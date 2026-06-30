@@ -6,13 +6,13 @@ order: 1
 
 # Origin
 
-The name **Ontahí** condenses several layers:
+The name \concept{Ontahí} condenses several layers:
 
-- **Ontology**: the structure of what exists inside a domain.
-- **Anahí / Onahí**: an echo of the ceibo legend.
-- **Ceibo**: the national flower of Argentina.
-- **Borges**: the intuition that changing language changes the world.
-- **Freud**: condensation, displacement and the veiled origin of a symbol.
+- \term{Ontology}: the structure of what exists inside a domain.
+- \term{Anahí / Onahí}: an echo of the ceibo legend.
+- \term{Ceibo}: the national flower of Argentina.
+- \term{Borges}: the intuition that changing language changes the world.
+- \term{Freud}: condensation, displacement and the veiled origin of a symbol.
 
 The name should not be over-explained in product copy.
 

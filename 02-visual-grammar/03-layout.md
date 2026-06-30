@@ -8,14 +8,14 @@ order: 3
 
 ![Ontahí layout principles](../assets/specimens/layout-principles.svg)
 
-Ontahí layouts should feel editorial.
+\concept{Ontahí} layouts should feel \term{editorial}.
 
 Prefer:
 
-- large margins
-- asymmetric balance
-- visible hierarchy
-- breathing room
+- \term{large margins}
+- \term{asymmetric balance}
+- \term{visible hierarchy}
+- \term{breathing room}
 - sections that feel like book spreads
 - cards that feel like paper
 

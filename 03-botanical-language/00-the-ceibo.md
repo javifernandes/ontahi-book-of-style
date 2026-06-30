@@ -8,11 +8,11 @@ order: 0
 
 ![Ontahí ceibo symbol specimen](../assets/specimens/ceibo-symbol-specimen.svg)
 
-This specimen isolates the ceibo as a symbol, not as a full brand board.
+This specimen isolates the \concept{ceibo} as a \term{symbol}, not as a full brand board.
 
-The ceibo (*Erythrina crista-galli*) is the national flower of Argentina.
+The ceibo (*Erythrina crista-galli*) is the \term{national flower} of Argentina.
 
-It brings several meanings into Ontahí:
+It brings several meanings into \concept{Ontahí}:
 
 - living domains
 - organic relationships
@@ -25,6 +25,6 @@ Use the ceibo subtly.
 
 It should not become folklore.
 
-It should work as an elegant botanical symbol.
+It should work as an elegant \term{botanical symbol}.
 
 A symbol should not explain itself. It should invite recognition.

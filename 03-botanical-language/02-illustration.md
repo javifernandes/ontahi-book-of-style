@@ -6,7 +6,7 @@ order: 2
 
 # Illustration
 
-Illustrations should be inspired by:
+\concept{Illustrations} should be inspired by:
 
 - botanical plates
 - natural history books
@@ -22,6 +22,6 @@ Avoid:
 - isometric cloud architecture
 - generic AI imagery
 
-Illustrations should decompose into reusable botanical parts.
+Illustrations should decompose into reusable \term{botanical parts}.
 
-From flower, leaf, branch, node, and line, the system can grow.
+From flower, leaf, branch, node, and line, the \term{system} can grow.

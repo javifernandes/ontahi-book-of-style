@@ -6,7 +6,7 @@ order: 0
 
 # Visual Grammar
 
-The visual language of Ontahí is editorial and botanical.
+The \concept{visual language} of \concept{Ontahí} is editorial and botanical.
 
 It should resemble:
 
@@ -23,6 +23,6 @@ It should not resemble:
 - a crypto protocol
 - an enterprise admin panel
 
-This is a grammar, not a gallery.
+This is a \term{grammar}, not a gallery.
 
-Rules should explain how small elements combine into a larger world.
+Rules should explain how small elements combine into a larger \term{world}.

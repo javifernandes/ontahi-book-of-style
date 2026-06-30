@@ -8,7 +8,7 @@ order: 2
 
 ![Ontahí typography specimen](../assets/specimens/typography-specimen.svg)
 
-Typography carries the same responsibility as code: it gives structure to thought.
+\concept{Typography} carries the same responsibility as code: it gives \term{structure} to thought.
 
 ## Direction
 
@@ -26,4 +26,4 @@ Typography carries the same responsibility as code: it gives structure to though
 - dense corporate typography
 - all-caps overuse
 
-Typography gives structure to thought.
+Typography gives structure to \term{thought}.

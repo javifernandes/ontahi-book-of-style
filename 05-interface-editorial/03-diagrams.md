@@ -6,9 +6,9 @@ order: 3
 
 # Diagrams
 
-Diagrams should be sparse and conceptual.
+\concept{Diagrams} should be sparse and conceptual.
 
-Use diagrams to reveal categories, not to impress with complexity.
+Use diagrams to reveal \term{categories}, not to impress with complexity.
 
 Preferred diagram types:
 

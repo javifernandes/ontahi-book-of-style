@@ -8,7 +8,7 @@ order: 9
 
 ![Ontahí editorial primitives](../assets/specimens/editorial-primitives.svg)
 
-BookOps and Ontahí documentation should define visual treatment for:
+\concept{BookOps} and \concept{Ontahí documentation} should define visual treatment for:
 
 - titles
 - subtitles
@@ -22,6 +22,6 @@ BookOps and Ontahí documentation should define visual treatment for:
 - code listings
 - references
 
-These are not decorative details. They are how the system teaches a reader where to look.
+These are not decorative details. They are how the \term{system} teaches a reader where to look.
 
-Editorial hierarchy is part of the interface.
+\concept{Editorial hierarchy} is part of the interface.

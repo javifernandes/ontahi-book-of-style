@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="320" viewBox="0 0 760 320" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="220" viewBox="0 0 760 220" role="img" aria-labelledby="title desc">
   <title id="title">Ontahi layout principles</title>
   <desc id="desc">A compact layout specimen showing margins, hierarchy and asymmetry.</desc>
   <defs>
@@ -8,35 +8,29 @@
       .label{font:13px Inter,system-ui,sans-serif;fill:#465538}
     </style>
   </defs>
-  <rect width="760" height="320" rx="16" fill="#F6F2EB"/>
-  <text x="40" y="42" class="eyebrow">LAYOUT</text>
-  <text x="40" y="76" class="title">Margins carry attention</text>
-  <path d="M40 98h680" stroke="#D9D1C0"/>
+  <rect width="760" height="220" rx="16" fill="#F6F2EB"/>
 
-  <g transform="translate(56 124)">
+  <g transform="translate(56 36)">
     <rect width="188" height="150" rx="12" fill="#FFFCF6" stroke="#D9D1C0"/>
     <path d="M28 0v150M160 0v150" stroke="#E8E2D3" stroke-dasharray="5 6"/>
     <rect x="46" y="34" width="92" height="12" rx="4" fill="#162018"/>
     <rect x="46" y="66" width="116" height="6" rx="3" fill="#C2B7A4"/>
     <rect x="46" y="86" width="94" height="6" rx="3" fill="#D9D1C0"/>
     <rect x="46" y="106" width="128" height="6" rx="3" fill="#D9D1C0"/>
-    <text x="0" y="184" class="label">Generous margins</text>
   </g>
 
-  <g transform="translate(298 124)">
+  <g transform="translate(298 36)">
     <rect width="188" height="150" rx="12" fill="#FFFCF6" stroke="#D9D1C0"/>
     <rect x="26" y="30" width="136" height="32" rx="8" fill="#162018"/>
     <rect x="26" y="84" width="92" height="18" rx="6" fill="#7A7F52"/>
     <rect x="132" y="84" width="30" height="18" rx="6" fill="#D94C43"/>
     <rect x="26" y="120" width="64" height="8" rx="4" fill="#D9D1C0"/>
-    <text x="0" y="184" class="label">One dominant idea</text>
   </g>
 
-  <g transform="translate(540 124)">
+  <g transform="translate(540 36)">
     <rect width="164" height="150" rx="12" fill="#FFFCF6" stroke="#D9D1C0"/>
     <rect x="22" y="26" width="98" height="44" rx="8" fill="#E8E2D3"/>
     <rect x="76" y="90" width="66" height="36" rx="8" fill="#F6F2EB" stroke="#D9D1C0"/>
     <circle cx="46" cy="108" r="16" fill="#D94C43"/>
-    <text x="0" y="184" class="label">Asymmetric balance</text>
   </g>
 </svg>

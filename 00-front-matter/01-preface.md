@@ -6,11 +6,11 @@ order: 1
 
 # Preface
 
-Ontahí should not look like another developer platform.
+\concept{Ontahí} should not look like another developer platform.
 
 It should feel like a carefully edited book, a botanical atlas, a museum plate, a scientific notebook and a quiet tool for thought.
 
-The goal of this book is to help humans and agents produce Ontahí materials that feel coherent:
+The goal of this book is to help humans and agents produce \concept{Ontahí materials} that feel coherent:
 
 - documentation
 - websites

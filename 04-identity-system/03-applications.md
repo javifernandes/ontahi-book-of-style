@@ -6,7 +6,7 @@ order: 3
 
 # Applications
 
-Ontahí applications should feel restrained and memorable.
+\concept{Ontahí applications} should feel restrained and memorable.
 
 Good future applications:
 
@@ -20,6 +20,6 @@ Good future applications:
 - book cover
 - small physical stationery
 
-Merchandising should be quiet: small marks, good materials, careful typography.
+\term{Merchandising} should be quiet: small marks, good materials, careful typography.
 
-The best object should feel like it came from a botanical library, not a software booth.
+The best object should feel like it came from a \term{botanical library}, not a software booth.

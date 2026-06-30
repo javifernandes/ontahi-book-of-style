@@ -6,7 +6,7 @@ order: 1
 
 # Components
 
-Components should feel like pieces of paper, not floating glass.
+\concept{Components} should feel like \term{pieces of paper}, not floating glass.
 
 ## Cards
 
@@ -25,4 +25,4 @@ Components should feel like pieces of paper, not floating glass.
 
 ## Panels
 
-Use dark panels primarily for code editors, terminals and technical examples.
+Use \term{dark panels} primarily for code editors, terminals and technical examples.

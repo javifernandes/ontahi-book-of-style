@@ -15,4 +15,4 @@ order: 0
 7. Code examples should feel like notebooks.
 8. Dark mode belongs mainly to code and editor surfaces.
 
-This part defines an interface language, not a component catalog.
+This part defines an \concept{interface language}, not a component catalog.

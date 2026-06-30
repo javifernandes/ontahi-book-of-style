@@ -6,11 +6,11 @@ order: 4
 
 # Dark Mode
 
-Dark mode is essential for Ontahí because code, runtime traces and technical work often live in dark surfaces.
+\concept{Dark mode} is essential for \concept{Ontahí} because code, runtime traces and technical work often live in dark surfaces.
 
 ![Ontahí dark mode surface](../assets/specimens/dark-mode-surface.svg)
 
-The dark surface is forest, not black.
+The dark surface is \term{forest}, not black.
 
 Use:
 
@@ -22,4 +22,4 @@ Use:
 
 Avoid pure black, neon accents and high-gloss panels.
 
-Dark mode should feel botanical, quiet and serious.
+Dark mode should feel \term{botanical}, quiet and serious.

@@ -6,7 +6,7 @@ order: 2
 
 # Documentation Generation Prompt
 
-Use this prompt when asking an agent to write Ontahí documentation:
+Use this prompt when asking an agent to write \concept{Ontahí documentation}:
 
 ```text
 Write Ontahí documentation in a precise, calm and conceptual tone.

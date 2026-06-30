@@ -6,7 +6,7 @@ order: 0
 
 # Identity Principle
 
-Ontahí should feel:
+\concept{Ontahí} should feel:
 
 - calm
 - precise
@@ -27,6 +27,6 @@ It should avoid feeling:
 - dashboard-heavy
 - visually noisy
 
-The identity system should be quiet enough for books and precise enough for code.
+The \concept{identity system} should be quiet enough for books and precise enough for code.
 
-The logo is not the endpoint. It is one expression of the language.
+The logo is not the endpoint. It is one expression of the \term{language}.

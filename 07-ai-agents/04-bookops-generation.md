@@ -6,7 +6,7 @@ order: 4
 
 # BookOps Generation Prompt
 
-Use this prompt when asking an agent to generate BookOps material for Ontahí:
+Use this prompt when asking an agent to generate \concept{BookOps material} for \concept{Ontahí}:
 
 ```text
 Write a compact BookOps chapter for Ontahí using the Ontahí Language Kit.

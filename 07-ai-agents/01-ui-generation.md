@@ -6,7 +6,7 @@ order: 1
 
 # UI Generation Prompt
 
-Use this prompt when asking an agent to generate Ontahí UI:
+Use this prompt when asking an agent to generate \concept{Ontahí UI}:
 
 ```text
 Design an Ontahí interface using the Ontahí Book of Style.

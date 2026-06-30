@@ -8,14 +8,14 @@ order: 0
 
 *A compact style book for executable ontologies.*
 
-Ontahí is a language, runtime and visual world for thinking software from the domain outward.
+\concept{Ontahí} is a \term{language}, runtime and visual world for thinking software from the domain outward.
 
 It begins from a simple premise:
 
-> Changing the categories we use to describe systems makes new possibilities of design visible.
+> Changing the \term{categories} we use to describe systems makes new possibilities of design visible.
 
-This kit defines the aesthetic, editorial, interface and documentation principles for Ontahí.
+This kit defines the aesthetic, editorial, interface and documentation principles for \concept{Ontahí}.
 
 It is meant for the development team, coding agents, and future documentation work.
 
-It is not the full public documentation of Ontahí.
+It is not the full public documentation of \concept{Ontahí}.

@@ -6,20 +6,20 @@ order: 2
 
 # Executable Ontology
 
-An executable ontology is a model of a domain whose concepts are not only described but made operational.
+An \concept{executable ontology} is a model of a domain whose \term{concepts} are not only described but made operational.
 
-A concept in Ontahí can have:
+A concept in \concept{Ontahí} can have:
 
-- identity
-- relationships
-- events
-- operations
-- tasks
-- authority
-- persistence
-- synchronization
-- effects
+- \term{identity}
+- \term{relationships}
+- \term{events}
+- \term{operations}
+- \term{tasks}
+- \term{authority}
+- \term{persistence}
+- \term{synchronization}
+- \term{effects}
 
-The model is not documentation beside the system.
+The \keyword{model} is not documentation beside the system.
 
 The model is where the system begins.

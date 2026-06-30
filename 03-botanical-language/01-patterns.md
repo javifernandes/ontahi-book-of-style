@@ -8,7 +8,7 @@ order: 1
 
 ![Ontahí botanical pattern seeds](../assets/specimens/botanical-pattern-seeds.svg)
 
-The subtle ceibo outline pattern can be used as a background texture.
+The subtle \concept{ceibo outline pattern} can be used as a \term{background texture}.
 
 ## Rules
 
@@ -16,7 +16,7 @@ The subtle ceibo outline pattern can be used as a background texture.
 - prefer warm beige or muted olive
 - never compete with text
 - avoid repeating too mechanically
-- use it to create atmosphere, not decoration
+- use it to create \term{atmosphere}, not decoration
 
 Good uses:
 

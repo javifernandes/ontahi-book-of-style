@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="190" viewBox="0 0 760 190" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="90" viewBox="0 0 760 90" role="img" aria-labelledby="title desc">
   <title id="title">Ontahi usage ratio</title>
   <desc id="desc">A compact usage ratio bar showing eighty percent paper, fifteen percent green, and five percent ceibo red.</desc>
   <defs>
@@ -9,11 +9,9 @@
       .muted{font:12px Inter,system-ui,sans-serif;fill:#465538}
     </style>
   </defs>
-  <rect width="760" height="190" rx="16" fill="#F6F2EB"/>
-  <text x="40" y="42" class="eyebrow">USAGE RATIO</text>
-  <text x="40" y="76" class="title">Mostly quiet, rarely red</text>
+  <rect width="760" height="90" rx="16" fill="#F6F2EB"/>
 
-  <g transform="translate(40 110)">
+  <g transform="translate(70 28)">
     <rect width="620" height="34" rx="8" fill="#F6F2EB" stroke="#D9D1C0"/>
     <rect x="496" width="93" height="34" fill="#7A7F52"/>
     <rect x="589" width="31" height="34" rx="0" fill="#D94C43"/>
@@ -21,9 +19,5 @@
     <line x1="496" x2="496" y1="-8" y2="46" stroke="#D9D1C0"/>
     <line x1="589" x2="589" y1="-8" y2="46" stroke="#D9D1C0"/>
 
-    <text x="0" y="66" class="label">80% paper and neutrals</text>
-    <text x="462" y="66" class="label">15% greens</text>
-    <text x="590" y="66" class="label">5% ceibo</text>
-    <text x="0" y="-14" class="muted">The accent appears late, small and memorable.</text>
   </g>
 </svg>

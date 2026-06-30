@@ -6,7 +6,7 @@ order: 3
 
 # Image Generation Prompt
 
-Use this prompt when generating Ontahí images:
+Use this prompt when generating \concept{Ontahí images}:
 
 ```text
 Create a refined editorial visual for Ontahí.

@@ -6,7 +6,7 @@ order: 6
 
 # Tone
 
-The tone should be:
+The \concept{tone} should be:
 
 - precise
 - calm
@@ -17,4 +17,4 @@ The tone should be:
 
 Avoid excessive direct address.
 
-Prefer general, conceptual statements over "you/your" marketing language.
+Prefer general, \term{conceptual statements} over "you/your" marketing language.

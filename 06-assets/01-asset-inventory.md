@@ -72,4 +72,4 @@ Future versions should still add:
 - `assets/textures/paper-texture.png`
 - platform PNG exports for iOS, Android, PWA and favicon sizes
 
-Specimens are allowed to inspire. Source exports must be clean, small, named, and reusable.
+\term{Specimens} are allowed to inspire. \term{Source exports} must be clean, small, named, and reusable.

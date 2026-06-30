@@ -6,7 +6,7 @@ order: 2
 
 # BookOps Import Notes
 
-This repository is structured as a small book.
+This repository is structured as a \concept{small book}.
 
 Each numbered folder is a part.
 
@@ -21,4 +21,4 @@ Suggested BookOps mapping:
 
 The book can later be expanded with diagrams, generated images and interactive examples.
 
-BookOps should treat this repository as source context for future Ontahí documentation, not as the final user manual.
+\concept{BookOps} should treat this repository as \term{source context} for future \concept{Ontahí documentation}, not as the final user manual.

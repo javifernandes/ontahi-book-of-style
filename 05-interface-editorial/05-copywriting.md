@@ -6,16 +6,16 @@ order: 5
 
 # Copywriting
 
-Ontahí copy should describe ideas, not sell features.
+\concept{Ontahí copy} should describe ideas, not sell features.
 
-Prefer abstract clarity over startup persuasion.
+Prefer \term{abstract clarity} over startup persuasion.
 
 ## Prefer
 
-- A language for executable domains.
+- A language for \term{executable domains}.
 - Entities with identity.
 - Events as facts.
-- Tasks as durable operations.
+- Tasks as \term{durable operations}.
 - The model is where the system begins.
 
 ## Avoid

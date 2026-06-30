@@ -8,7 +8,7 @@ order: 0
 
 ![Ontahí iconography grid](../assets/specimens/iconography-grid.svg)
 
-The Ontahí visual world uses a small set of recurring symbols:
+The \concept{Ontahí visual world} uses a small set of recurring symbols:
 
 - ceibo flower
 - botanical outline
@@ -18,7 +18,7 @@ The Ontahí visual world uses a small set of recurring symbols:
 - circular event loops
 - layered task stacks
 
-Symbols should be few and repeated carefully.
+\term{Symbols} should be few and repeated carefully.
 
 The system should feel coherent, not illustrated.
 
@@ -31,7 +31,7 @@ The system should feel coherent, not illustrated.
 - Node radius: 5px
 - Style: organic, clear, restrained
 
-Icon families should map to Ontahí concepts: entities, relationships, events, operations, tasks, runtime, data, rules, authorization, state, errors, and synchronization.
+\concept{Icon families} should map to \concept{Ontahí concepts}: entities, relationships, events, operations, tasks, runtime, data, rules, authorization, state, errors, and synchronization.
 
 ## Current icons
 
@@ -48,4 +48,4 @@ Icon families should map to Ontahí concepts: entities, relationships, events, o
 - `assets/icons/authority.svg`
 - `assets/icons/synchronization.svg`
 
-These icons are seeds. They establish grammar and semantic coverage before final optical refinement.
+These icons are \term{seeds}. They establish grammar and semantic coverage before final optical refinement.

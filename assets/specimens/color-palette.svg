@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="240" viewBox="0 0 760 240" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="122" viewBox="0 0 760 122" role="img" aria-labelledby="title desc">
   <title id="title">Ontahi core palette</title>
   <desc id="desc">A focused core palette specimen with the primary Ontahi color tokens.</desc>
   <defs>
@@ -9,41 +9,26 @@
       .code{font:12px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#465538}
     </style>
   </defs>
-  <rect width="760" height="240" rx="16" fill="#F6F2EB"/>
-  <text x="40" y="42" class="eyebrow">CORE PALETTE</text>
-  <text x="40" y="76" class="title">Forest, olive, ceibo, paper</text>
-  <path d="M40 96h680" stroke="#D9D1C0"/>
+  <rect width="760" height="122" rx="16" fill="#F6F2EB"/>
 
-  <g transform="translate(40 126)">
+  <g transform="translate(40 34)">
     <g>
       <rect width="92" height="54" rx="9" fill="#1F2A24"/>
-      <text x="0" y="78" class="label">Forest</text>
-      <text x="0" y="98" class="code">#1F2A24</text>
     </g>
     <g transform="translate(116 0)">
       <rect width="92" height="54" rx="9" fill="#7A7F52"/>
-      <text x="0" y="78" class="label">Olive</text>
-      <text x="0" y="98" class="code">#7A7F52</text>
     </g>
     <g transform="translate(232 0)">
       <rect width="92" height="54" rx="9" fill="#D94C43"/>
-      <text x="0" y="78" class="label">Ceibo</text>
-      <text x="0" y="98" class="code">#D94C43</text>
     </g>
     <g transform="translate(348 0)">
       <rect width="92" height="54" rx="9" fill="#F6F2EB" stroke="#D9D1C0"/>
-      <text x="0" y="78" class="label">Paper</text>
-      <text x="0" y="98" class="code">#F6F2EB</text>
     </g>
     <g transform="translate(464 0)">
       <rect width="92" height="54" rx="9" fill="#E8E2D3" stroke="#D9D1C0"/>
-      <text x="0" y="78" class="label">Warm Paper</text>
-      <text x="0" y="98" class="code">#E8E2D3</text>
     </g>
     <g transform="translate(580 0)">
       <rect width="92" height="54" rx="9" fill="#C2B7A4"/>
-      <text x="0" y="78" class="label">Sand</text>
-      <text x="0" y="98" class="code">#C2B7A4</text>
     </g>
   </g>
 </svg>

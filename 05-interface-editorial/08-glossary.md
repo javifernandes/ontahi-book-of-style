@@ -8,7 +8,7 @@ order: 8
 
 ## Executable Ontology
 
-A domain model whose categories are operational.
+A domain model whose \term{categories} are operational.
 
 ## Entity
 
@@ -24,16 +24,16 @@ An executable action with domain semantics.
 
 ## Task
 
-A durable execution surface with progress, retries and state.
+A \term{durable execution surface} with progress, retries and state.
 
 ## Durable Operation
 
-A domain operation exposed through durable task execution.
+A domain operation exposed through \term{durable task execution}.
 
 ## Runtime
 
-The place where the ontology becomes active.
+The place where the \term{ontology} becomes active.
 
 ## Authority
 
-The locus responsible for deciding state.
+The locus responsible for deciding \term{state}.
