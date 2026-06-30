@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="90" viewBox="0 0 760 90" role="img" aria-labelledby="title desc">
+  <title id="title">Ontahi usage ratio</title>
+  <desc id="desc">A compact usage ratio bar showing eighty percent paper, fifteen percent green, and five percent ceibo red.</desc>
+  <defs>
+    <style>
+      .eyebrow{font:12px Inter,system-ui,sans-serif;letter-spacing:3px;fill:#B9C2AA}
+      .title{font:28px Georgia,serif;fill:#F6F2EB}
+      .label{font:13px Inter,system-ui,sans-serif;fill:#F6F2EB}
+      .muted{font:12px Inter,system-ui,sans-serif;fill:#B9C2AA}
+    </style>
+  </defs>
+  <rect width="760" height="90" rx="16" fill="#162018"/>
+
+  <g transform="translate(70 28)">
+    <rect width="620" height="34" rx="8" fill="#F6F2EB" stroke="#465538"/>
+    <rect x="496" width="93" height="34" fill="#7A7F52"/>
+    <rect x="589" width="31" height="34" rx="0" fill="#D94C43"/>
+
+    <line x1="496" x2="496" y1="-8" y2="46" stroke="#465538"/>
+    <line x1="589" x2="589" y1="-8" y2="46" stroke="#465538"/>
+
+  </g>
+</svg>

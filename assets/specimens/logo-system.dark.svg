@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="510" viewBox="0 0 960 510" role="img" aria-labelledby="title desc">
+  <title id="title">Ontahi logo system specimen</title>
+  <desc id="desc">A focused specimen showing the Ontahi primary lockup, symbol variants, wordmark and negative use.</desc>
+  <defs>
+    <style>
+      .eyebrow{font:12px Inter,system-ui,sans-serif;letter-spacing:3px;fill:#B9C2AA}
+      .label{font:15px Inter,system-ui,sans-serif;fill:#F6F2EB}
+      .caption{font:13px Inter,system-ui,sans-serif;fill:#B9C2AA}
+      .word{font:64px Georgia,serif;fill:#F6F2EB}
+      .smallword{font:36px Georgia,serif;fill:#F6F2EB}
+    </style>
+    <g id="ceibo" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M61 71c-7 13-9 25-4 38" stroke="var(--stem,#465538)" stroke-width="7"/>
+      <path d="M56 84c-15-8-26-4-34 11 14 3 26-1 34-11Z" fill="var(--leaf,#7A7F52)"/>
+      <path d="M63 77c14 0 24 7 30 21-15 0-25-7-30-21Z" fill="var(--leaf2,#98A16B)"/>
+      <path d="M62 66c-18-2-31-12-38-29 19-1 32 9 38 29Z" fill="var(--petal,#D94C43)"/>
+      <path d="M66 60c-9-17-8-34 3-49 13 15 12 32-3 49Z" fill="var(--petal2,#E06A61)"/>
+      <path d="M72 62c8-16 22-24 40-24-6 18-19 27-40 24Z" fill="var(--petal,#D94C43)"/>
+      <path d="M70 70c16 3 28 14 35 31-19 0-31-10-35-31Z" fill="var(--petal2,#E06A61)"/>
+      <path d="M56 63c-15 8-30 8-45 0 12-13 28-13 45 0Z" fill="var(--petal,#D94C43)"/>
+      <circle cx="64" cy="66" r="7" fill="var(--center,#F6F2EB)" stroke="var(--petal,#D94C43)" stroke-width="3"/>
+    </g>
+    <g id="ceiboLine" fill="none" stroke="#465538" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M61 71c-7 13-9 25-4 38"/>
+      <path d="M56 84c-15-8-26-4-34 11 14 3 26-1 34-11Z"/>
+      <path d="M63 77c14 0 24 7 30 21-15 0-25-7-30-21Z"/>
+      <path d="M62 66c-18-2-31-12-38-29 19-1 32 9 38 29Z"/>
+      <path d="M66 60c-9-17-8-34 3-49 13 15 12 32-3 49Z"/>
+      <path d="M72 62c8-16 22-24 40-24-6 18-19 27-40 24Z"/>
+      <path d="M70 70c16 3 28 14 35 31-19 0-31-10-35-31Z"/>
+      <path d="M56 63c-15 8-30 8-45 0 12-13 28-13 45 0Z"/>
+      <circle cx="64" cy="66" r="7"/>
+    </g>
+  </defs>
+  <rect width="960" height="510" rx="18" fill="#162018"/>
+
+  <rect x="64" y="48" width="832" height="136" rx="14" fill="#1F2A24" stroke="#465538"/>
+  <g transform="translate(94 72) scale(.74)">
+    <use href="#ceibo"/>
+  </g>
+  <text x="220" y="120" class="word">ontahí</text>
+  <text x="226" y="154" font-family="Inter,system-ui,sans-serif" font-size="13" letter-spacing="6" fill="#D94C43">EXECUTABLE ONTOLOGY</text>
+
+  <rect x="64" y="220" width="376" height="146" rx="14" fill="#1F2A24" stroke="#465538"/>
+  <g transform="translate(96 244) scale(.44)">
+    <use href="#ceibo"/>
+  </g>
+  <text x="170" y="298" class="smallword">ontahí</text>
+
+  <rect x="504" y="220" width="392" height="146" rx="14" fill="#1F2A24" stroke="#465538"/>
+  <g transform="translate(538 244)">
+    <rect width="82" height="82" rx="14" fill="#F6F2EB" stroke="#465538"/>
+    <g transform="translate(11 11) scale(.47)">
+      <use href="#ceibo"/>
+    </g>
+  </g>
+  <g transform="translate(686 244)">
+    <rect width="82" height="82" rx="14" fill="#162018"/>
+    <g transform="translate(11 11) scale(.47)" style="--petal:#F6F2EB;--petal2:#E8E2D3;--leaf:#F6F2EB;--leaf2:#F6F2EB;--stem:#F6F2EB;--center:#162018">
+      <use href="#ceibo"/>
+    </g>
+  </g>
+
+  <rect x="64" y="396" width="376" height="78" rx="14" fill="#1F2A24" stroke="#465538"/>
+  <text x="96" y="464" class="smallword">ontahí</text>
+  <text x="240" y="464" font-family="Georgia,serif" font-size="36" font-style="italic" fill="#F6F2EB">ontahí</text>
+
+  <rect x="504" y="396" width="392" height="78" rx="14" fill="#1F2A24" stroke="#465538"/>
+  <g transform="translate(536 438) scale(.28)">
+    <use href="#ceiboLine"/>
+  </g>
+</svg>

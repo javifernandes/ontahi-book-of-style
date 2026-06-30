@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ontahi iconography grid</title>
+  <desc id="desc">A specimen sheet showing the first Ontahi semantic icon family.</desc>
+  <defs>
+    <style>
+      .label{font:16px Inter,system-ui,sans-serif;fill:#F6F2EB}
+      .meta{font:13px Inter,system-ui,sans-serif;fill:#B9C2AA}
+      .icon{fill:none;stroke:#98A16B;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
+      .accent{stroke:#D94C43}
+    </style>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="#162018"/>
+  <g transform="translate(48 60)">
+    <g transform="translate(0 0)">
+      <circle class="icon" cx="34" cy="16" r="8"/><circle class="icon" cx="18" cy="58" r="8"/><circle class="icon" cx="50" cy="58" r="8"/><path class="icon" d="M30 24 21 50M38 24l9 26M26 58h16"/>
+    </g>
+    <g transform="translate(180 0)">
+      <path class="icon" d="M0 40h56"/><path class="icon" d="m44 26 14 14-14 14"/><path class="icon" d="M14 18c16 0 24 7 28 18"/><path class="icon" d="M14 62c16 0 24-7 28-18"/>
+    </g>
+    <g transform="translate(380 0)">
+      <circle class="icon" cx="34" cy="40" r="26"/><circle cx="34" cy="14" r="4" fill="#D94C43"/><circle cx="57" cy="53" r="4" fill="#D94C43"/><circle cx="11" cy="53" r="4" fill="#D94C43"/>
+    </g>
+    <g transform="translate(560 0)">
+      <circle class="icon" cx="34" cy="40" r="28"/><path class="icon accent" d="m28 24 24 16-24 16V24Z"/>
+    </g>
+    <g transform="translate(760 0)">
+      <path class="icon" d="M14 10h36l12 12v48H14z"/><path class="icon" d="M50 10v14h14"/><path class="icon accent" d="m25 43 8 8 18-23"/>
+    </g>
+    <g transform="translate(940 0)">
+      <path class="icon" d="M34 8 6 22v36l28 14 28-14V22z"/><path class="icon" d="M20 32h28M20 48h28M34 22v36"/>
+    </g>
+    <g transform="translate(0 210)">
+      <ellipse class="icon" cx="34" cy="22" rx="24" ry="12"/><path class="icon" d="M10 22v42c0 7 11 12 24 12s24-5 24-12V22"/><path class="icon" d="M10 43c0 7 11 12 24 12s24-5 24-12"/>
+    </g>
+    <g transform="translate(180 210)">
+      <path class="icon" d="M0 20h68M0 40h68M0 60h68"/><circle class="icon accent" cx="25" cy="20" r="7"/><circle class="icon accent" cx="46" cy="40" r="7"/><circle class="icon accent" cx="32" cy="60" r="7"/>
+    </g>
+    <g transform="translate(380 210)">
+      <rect class="icon" x="4" y="24" width="60" height="32" rx="16"/><circle class="icon accent" cx="24" cy="40" r="8"/><path class="icon" d="M42 40h12"/>
+    </g>
+    <g transform="translate(560 210)">
+      <circle class="icon accent" cx="34" cy="40" r="28"/><path class="icon accent" d="m22 28 24 24M46 28 22 52"/>
+    </g>
+    <g transform="translate(760 210)">
+      <rect class="icon" x="12" y="32" width="44" height="34" rx="8"/><path class="icon" d="M22 32V20a12 12 0 0 1 24 0v12"/><path class="icon accent" d="M34 46v8"/>
+    </g>
+    <g transform="translate(940 210)">
+      <path class="icon" d="M12 30h44"/><path class="icon" d="m48 22 8 8-8 8"/>
+      <path class="icon accent" d="M56 54H12"/><path class="icon accent" d="m20 46-8 8 8 8"/>
+    </g>
+  </g>
+</svg>

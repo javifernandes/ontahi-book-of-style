@@ -95,6 +95,65 @@
           "background": "#FBF8F0",
           "border": "#D9D1C0"
         }
+      },
+      "modes": {
+        "dark": {
+          "tokens": {
+            "color": {
+              "background": "#162018",
+              "foreground": "#F6F2EB",
+              "mutedForeground": "#B9C2AA",
+              "surface": "#1F2A24",
+              "surfaceWarm": "#2B382E",
+              "border": "#465538",
+              "accent": "#E06A61",
+              "accentForeground": "#FFF8EF",
+              "accentSoft": "#3A2A24",
+              "organic": "#98A16B",
+              "forest": "#162018",
+              "overline": "#C2B7A4"
+            }
+          },
+          "reader": {
+            "canvas": {
+              "textureOpacity": "0.18",
+              "wash": "radial-gradient(circle at 15% 12%, rgba(152, 161, 107, 0.16), transparent 36%), radial-gradient(circle at 82% 16%, rgba(217, 76, 67, 0.12), transparent 32%)"
+            },
+            "content": {
+              "background": "#162018",
+              "foreground": "#F6F2EB",
+              "headingColor": "#F6F2EB",
+              "captionColor": "#B9C2AA",
+              "linkColor": "#E06A61",
+              "ruleColor": "#465538",
+              "backgroundPatternOpacity": "0.08"
+            },
+            "figure": {
+              "background": "#1F2A24",
+              "border": "#465538",
+              "captionColor": "#B9C2AA"
+            },
+            "code": {
+              "background": "#101713",
+              "border": "#465538",
+              "foreground": "#F6F2EB"
+            }
+          },
+          "navigation": {
+            "background": "#1F2A24",
+            "foreground": "#F6F2EB",
+            "mutedForeground": "#B9C2AA",
+            "accent": "#E06A61",
+            "activeBackground": "#2B382E",
+            "border": "#465538"
+          },
+          "chrome": {
+            "modal": {
+              "background": "#1F2A24",
+              "border": "#465538"
+            }
+          }
+        }
       }
     }
   },

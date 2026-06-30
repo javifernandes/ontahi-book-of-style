@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="122" viewBox="0 0 760 122" role="img" aria-labelledby="title desc">
+  <title id="title">Ontahi core palette</title>
+  <desc id="desc">A focused core palette specimen with the primary Ontahi color tokens.</desc>
+  <defs>
+    <style>
+      .eyebrow{font:12px Inter,system-ui,sans-serif;letter-spacing:3px;fill:#B9C2AA}
+      .title{font:28px Georgia,serif;fill:#F6F2EB}
+      .label{font:13px Inter,system-ui,sans-serif;fill:#F6F2EB}
+      .code{font:12px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#B9C2AA}
+    </style>
+  </defs>
+  <rect width="760" height="122" rx="16" fill="#162018"/>
+
+  <g transform="translate(40 34)">
+    <g>
+      <rect width="92" height="54" rx="9" fill="#1F2A24"/>
+    </g>
+    <g transform="translate(116 0)">
+      <rect width="92" height="54" rx="9" fill="#7A7F52"/>
+    </g>
+    <g transform="translate(232 0)">
+      <rect width="92" height="54" rx="9" fill="#D94C43"/>
+    </g>
+    <g transform="translate(348 0)">
+      <rect width="92" height="54" rx="9" fill="#F6F2EB" stroke="#465538"/>
+    </g>
+    <g transform="translate(464 0)">
+      <rect width="92" height="54" rx="9" fill="#E8E2D3" stroke="#465538"/>
+    </g>
+    <g transform="translate(580 0)">
+      <rect width="92" height="54" rx="9" fill="#C2B7A4"/>
+    </g>
+  </g>
+</svg>
